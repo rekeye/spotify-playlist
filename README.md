@@ -1,4 +1,8 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Spotify Playlist Puppy
+
+## Description
+
+This app is a generator of spotify playlists based on user inputs of his favorite dog breed with some extra modifiers.
 
 ## Getting Started
 
